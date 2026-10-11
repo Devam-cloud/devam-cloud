@@ -1577,3 +1577,4 @@
 [2026-10-10 18:10:26 UTC] run #2 of 3 — chore: sync metadata
 [2026-10-10 18:10:28 UTC] run #3 of 3 — style: formatting pass
 [2026-10-11 01:25:12 UTC] run #1 of 2 — docs: add entry to changelog
+[2026-10-11 01:25:14 UTC] run #2 of 2 — fix: correct minor inconsistency
